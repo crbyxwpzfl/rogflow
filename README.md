@@ -21,3 +21,4 @@ crtl shift e #explorer
 [epic](https://www.epicgames.com/store/en-US/download)<br>
 [steam](https://store.steampowered.com/)<br>
 [rockstar](https://socialclub.rockstargames.com/rockstar-games-launcher)<br>
+[xbox](https://www.xbox.com/)<br>
