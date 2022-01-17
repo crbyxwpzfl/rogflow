@@ -12,6 +12,11 @@ crtl shift e #explorer
 ## [firefox](https://github.com/crbyxwpzfl/ff)
 
 ## [parsec](https://parsec.app/)
+#### macos
+```
+Settings > Keyboard > App shortcuts > + #custom copy paste shortcut
+usually Strg is free to use for shortcuts
+```
 
 ## [dicord](https://discord.com/)
 
